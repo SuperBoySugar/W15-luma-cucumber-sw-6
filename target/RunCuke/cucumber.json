@@ -1,0 +1,123 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 7,
+        "name": "I am on homepage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4038322500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.steUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Verify user should filter by price",
+        "description": "",
+        "id": "women-test;verify-user-should-filter-by-price",
+        "after": [
+          {
+            "result": {
+              "duration": 150800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1263144800,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I mouse hover on Women",
+            "match": {
+              "location": "WomenTest.iMouseHoverOnWomen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 175767400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I mouse hover on Tops",
+            "match": {
+              "location": "WomenTest.iMouseHoverOnTops()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1141852000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I mouse hover on Jackets and click",
+            "match": {
+              "location": "WomenTest.iMouseHoverOnJacketsAndClick()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1146886000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I select on Sort By Price \"Price\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Price",
+                  "offset": 27
+                }
+              ],
+              "location": "WomenTest.iSelectOnSortByPrice(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 621269700,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I verify product are in low to high",
+            "match": {
+              "location": "WomenTest.iVerifyProductAreInLowToHigh()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 17,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Women Test",
+    "description": "\r\nAs a user I should able to verify the products by name filter and can verify\r\nthe products sort by price filter",
+    "id": "women-test",
+    "keyword": "Feature",
+    "uri": "womentest.feature"
+  }
+]

@@ -1,0 +1,181 @@
+2023-05-15 12:05:24 INFO  HomePage :65 - MouseHover on Women: 
+2023-05-15 12:05:163 INFO  HomePage :71 - MouseHover on Tops: 
+2023-05-15 12:05:184 INFO  HomePage :77 -  MouseHove and Click On Jackets: 
+2023-05-15 13:05:615 INFO  HomePage :65 - MouseHover on Women: 
+2023-05-15 13:05:756 INFO  HomePage :71 - MouseHover on Tops: 
+2023-05-15 13:05:799 INFO  HomePage :77 -  MouseHove and Click On Jackets: 
+2023-05-15 13:05:674 INFO  JacketsPage :45 - Select On SortByProduct: Product Name
+2023-05-15 13:05:294 INFO  HomePage :65 - MouseHover on Women: 
+2023-05-15 13:05:434 INFO  HomePage :71 - MouseHover on Tops: 
+2023-05-15 13:05:481 INFO  HomePage :77 -  MouseHove and Click On Jackets: 
+2023-05-15 13:05:249 INFO  JacketsPage :45 - Select On SortByProduct: Product Name
+2023-05-15 13:05:244 INFO  HomePage :65 - MouseHover on Women: 
+2023-05-15 13:05:385 INFO  HomePage :71 - MouseHover on Tops: 
+2023-05-15 13:05:398 INFO  HomePage :77 -  MouseHove and Click On Jackets: 
+2023-05-15 13:05:136 INFO  HomePage :65 - MouseHover on Women: 
+2023-05-15 13:05:277 INFO  HomePage :71 - MouseHover on Tops: 
+2023-05-15 13:05:283 INFO  HomePage :77 -  MouseHove and Click On Jackets: 
+2023-05-15 13:05:845 INFO  HomePage :85 - MouseHover on Men: 
+2023-05-15 13:05:981 INFO  HomePage :91 - MouseHover On Bottom: 
+2023-05-15 13:05:948 INFO  HomePage :97 - Click On Pants: 
+2023-05-15 13:05:262 INFO  HomePage :85 - MouseHover on Men: 
+2023-05-15 13:05:403 INFO  HomePage :91 - MouseHover On Bottom: 
+2023-05-15 13:05:265 INFO  HomePage :97 - Click On Pants: 
+2023-05-15 13:05:268 INFO  PantsPage :52 - MouseHover On Product Name: 
+2023-05-15 13:05:418 INFO  PantsPage :58 - Click On Size: 
+2023-05-15 13:05:457 INFO  PantsPage :64 - Click On Colour Black: 
+2023-05-15 13:05:502 INFO  PantsPage :70 - Click On Add To Cart: 
+2023-05-15 13:05:549 INFO  PantsPage :76 - Verify Text Message: You added Cronus Yoga Pant to your shopping cart.
+2023-05-15 13:05:468 INFO  HomePage :85 - MouseHover on Men: 
+2023-05-15 13:05:609 INFO  HomePage :91 - MouseHover On Bottom: 
+2023-05-15 13:05:474 INFO  HomePage :97 - Click On Pants: 
+2023-05-15 13:05:480 INFO  PantsPage :52 - MouseHover On Product Name: 
+2023-05-15 13:05:620 INFO  PantsPage :58 - Click On Size: 
+2023-05-15 13:05:661 INFO  PantsPage :64 - Click On Colour Black: 
+2023-05-15 13:05:704 INFO  PantsPage :70 - Click On Add To Cart: 
+2023-05-15 13:05:749 INFO  PantsPage :76 - Verify Text Message: You added Cronus Yoga Pant to your shopping cart.
+2023-05-15 13:05:326 INFO  PantsPage :82 - Click On Shopping Cart: 
+2023-05-15 13:05:159 INFO  ShoppingCartPage :44 - Verify Shopping Cart: Shopping Cart
+2023-05-15 13:05:172 INFO  ShoppingCartPage :49 - Verify Product Name: Cronus Yoga Pant
+2023-05-15 13:05:187 INFO  ShoppingCartPage :54 - Verify Product Size: 32
+2023-05-15 13:05:202 INFO  ShoppingCartPage :59 - Verify Product Colour: Black
+2023-05-15 13:05:173 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 13:05:882 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:965 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 14:05:672 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:676 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 14:05:489 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 14:05:767 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 14:05:726 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:730 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 14:05:549 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 14:05:614 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-15 14:05:662 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-15 14:05:47 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-15 14:05:558 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-15 14:05:578 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-15 14:05:592 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-15 14:05:824 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 14:05:822 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:826 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 14:05:660 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 14:05:719 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-15 14:05:767 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-15 14:05:167 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-15 14:05:323 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-15 14:05:342 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-15 14:05:358 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-15 14:05:392 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-15 14:05:431 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-15 14:05:167 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 14:05:902 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:906 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 14:05:834 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 14:05:881 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-15 14:05:931 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-15 14:05:516 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-15 14:05:146 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-15 14:05:170 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-15 14:05:190 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-15 14:05:225 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-15 14:05:265 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-15 14:05:357 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 14:05:124 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:127 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 14:05:949 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 14:05:14 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-15 14:05:71 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-15 14:05:589 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-15 14:05:388 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-15 14:05:407 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-15 14:05:423 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-15 14:05:457 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-15 14:05:496 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-15 14:05:867 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 14:05:628 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:632 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 14:05:464 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 14:05:549 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-15 14:05:599 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-15 14:05:173 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-15 14:05:777 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-15 14:05:795 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-15 14:05:811 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-15 14:05:846 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-15 14:05:887 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-15 14:05:220 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 14:05:288 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 14:05:292 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 14:05:81 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 14:05:168 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-15 14:05:216 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-15 14:05:487 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-15 14:05:162 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-15 14:05:180 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-15 14:05:195 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-15 14:05:228 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-15 14:05:265 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-15 14:05:949 INFO  OvernightDufflepage :119 - Verify Products Price: $225.00
+2023-05-15 21:05:115 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-15 21:05:19 INFO  HomePage :107 - Click On Bags: 
+2023-05-15 21:05:22 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-15 21:05:997 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-15 21:05:89 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-15 21:05:176 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-15 21:05:45 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-15 21:05:860 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-15 21:05:912 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-15 21:05:972 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-15 21:05:107 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-15 21:05:226 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-15 21:05:526 INFO  OvernightDufflepage :119 - Verify Products Price: $225.00
+2023-05-16 13:05:953 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-16 13:05:827 INFO  HomePage :107 - Click On Bags: 
+2023-05-16 13:05:834 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-16 13:05:865 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-16 13:05:976 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-16 13:05:63 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-16 13:05:550 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-16 13:05:988 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-16 13:05:93 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-16 13:05:198 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-16 13:05:339 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-16 13:05:451 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-16 13:05:759 INFO  OvernightDufflepage :119 - Verify Products Price: $225.00
+2023-05-16 13:05:787 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-16 13:05:726 INFO  HomePage :107 - Click On Bags: 
+2023-05-16 13:05:732 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-16 13:05:740 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-16 13:05:820 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-16 13:05:890 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-16 13:05:567 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-16 13:05:174 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-16 13:05:265 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-16 13:05:342 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-16 13:05:498 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-16 13:05:637 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-16 13:05:610 INFO  OvernightDufflepage :119 - Verify Products Price: $225.00
+2023-05-16 13:05:325 INFO  HomePage :102 - MouseHover On Gear: 
+2023-05-16 13:05:221 INFO  HomePage :107 - Click On Bags: 
+2023-05-16 13:05:228 INFO  BagsPage :25 - Click On OvernightDuffle: 
+2023-05-16 13:05:195 INFO  OvernightDufflepage :74 - Verify Text OvernightDuffle: Overnight Duffle
+2023-05-16 13:05:282 INFO  OvernightDufflepage :79 - Change Quantity: 3
+2023-05-16 13:05:357 INFO  OvernightDufflepage :84 - Click On Add To Cart: 
+2023-05-16 13:05:951 INFO  OvernightDufflepage :89 - Verify TextMessage: You added Overnight Duffle to your shopping cart.
+2023-05-16 13:05:371 INFO  OvernightDufflepage :94 - Click On Shopping Cart Link: 
+2023-05-16 13:05:485 INFO  OvernightDufflepage :99 - Verify Product Name: Overnight Duffle
+2023-05-16 13:05:553 INFO  OvernightDufflepage :104 - Verify Products Prize: $135.00
+2023-05-16 13:05:726 INFO  OvernightDufflepage :109 - Change Product Quantity: 5
+2023-05-16 13:05:870 INFO  OvernightDufflepage :114 - Click On Update Shopping Cart: 
+2023-05-16 13:05:958 INFO  OvernightDufflepage :119 - Verify Products Price: $225.00
+2023-05-16 13:05:707 INFO  HomePage :85 - MouseHover on Men: 
+2023-05-16 13:05:861 INFO  HomePage :91 - MouseHover On Bottom: 
+2023-05-16 13:05:944 INFO  HomePage :97 - Click On Pants: 
+2023-05-16 13:05:953 INFO  PantsPage :52 - MouseHover On Product Name: 
+2023-05-16 13:05:111 INFO  PantsPage :58 - Click On Size: 
+2023-05-16 13:05:201 INFO  PantsPage :64 - Click On Colour Black: 
+2023-05-16 13:05:276 INFO  PantsPage :70 - Click On Add To Cart: 
+2023-05-16 13:05:353 INFO  PantsPage :76 - Verify Text Message: You added Cronus Yoga Pant to your shopping cart.
+2023-05-16 13:05:776 INFO  HomePage :65 - MouseHover on Women: 
+2023-05-16 13:05:966 INFO  HomePage :71 - MouseHover on Tops: 
+2023-05-16 13:05:111 INFO  HomePage :77 -  MouseHove and Click On Jackets: 
